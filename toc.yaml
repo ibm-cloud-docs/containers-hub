@@ -1,0 +1,21 @@
+toc:
+  properties:
+    subcollection: containers-hub
+    use-case: ContainerOrchestration,ContainerImages,ContainerRegistry, Containersecurity, Containerization,Containers,FunctionAsAService
+    audience: solution
+    category: solution_docs
+    content-type: solution
+    deployable: false
+    href: /docs/containers-hub
+    path: containers-hub
+    description: 128 characters or less. The description should expand upon the name, but don't add extra marketese words that inflate the length. Focus on keywords that users would be skimming and/or searching for, including any key IBM branded terms covered in the solution.
+    label: containers
+  entries:
+  - navgroup:
+      id: overview
+      topics:
+      - overview.md
+  - navgroup:
+      id: plan
+      topics:
+      - comparison.md
