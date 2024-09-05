@@ -9,7 +9,7 @@ toc:
     href: /docs/containers-hub
     path: containers-hub
     description: 128 characters or less. The description should expand upon the name, but don't add extra marketese words that inflate the length. Focus on keywords that users would be skimming and/or searching for, including any key IBM branded terms covered in the solution.
-    label: containers
+    label: Containers
   entries:
   - navgroup:
       id: overview

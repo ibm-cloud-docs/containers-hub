@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2024
-lastupdated: "2024-09-04"
+lastupdated: "2024-09-05"
 
 
 keywords: containers
@@ -13,7 +13,5 @@ subcollection: containers-hub
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Which product should I use?
-{: #containers-comparison}
-
-TBD
+# Comparing IBM Cloud Containers products
+{: #comparison}
