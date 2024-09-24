@@ -16,7 +16,7 @@ subcollection: containers-hub
 # Comparing {{site.data.keyword.cloud_notm}} Containers products
 {: #comparison}
 
-{{site.data.keyword.cloud_notm}} offers several tools for deploying containers.
+{{site.data.keyword.cloud_notm}} offers several products for deploying containers.
 {: shortdesc}
 
 ## What products are available to me?
