@@ -56,9 +56,15 @@ With all of these container product options, you can also choose to store images
 
 {{../openshift/overview.md#what-is-openshift-overview-par}}
 
+### What is a cluster?
+{: #comparison-clusters-what}
+
+{{../containers/overview.md#overview-clusters}}
+
+
 
 ### Why should I use clusters?
-{: #comparison-clusters}
+{: #comparison-clusters-why}
 
 {{../containers/_include-segments/service-benefits.md}}
 
