@@ -38,13 +38,8 @@ With all of these container product options, you can also choose to store images
 {{../Registry/registry_overview.md#table_registry_overview_benefits}}
 
 
-## How do I choose?
-{: #comparison-choose}
 
-Learn a little bit about each product to know which one suits your needs best.
-
-
-### {{site.data.keyword.codeenginefull_notm}}
+## Quick and simple: {{site.data.keyword.codeenginefull_notm}}
 {: #comparison-ce}
 
 {{../codeengine/about.md#about-par}}
@@ -54,24 +49,18 @@ Learn a little bit about each product to know which one suits your needs best.
 [Get started with {{site.data.keyword.codeenginefull_notm}}](/docs/codeengine?topic=codeengine-getting-started).
 
 
-### {{site.data.keyword.containerlong_notm}}
-{: #comparison-iks}
+## Scalable with maximum capabilities: {{site.data.keyword.containerlong_notm}} or {{site.data.keyword.openshiftlong_notm}}
+{: #comparison-iks-os}
 
 {{../containers/overview.md#overview-iks}}
 
-{{../containers/_include-segments/service-benefits.md}}
-
-[Get started with {{site.data.keyword.containerlong_notm}}](/docs/containers?topic=containers-getting-started).
-
-
-### {{site.data.keyword.openshiftlong_notm}}
-{: #comparison-os}
-
 {{../openshift/overview.md#what-is-openshift-overview-par}}
 
-{{../openshift/_include-segments/service-benefits.md}}
 
-[Get started with {{site.data.keyword.containerlong_notm}}](/docs/openshift?topic=containopenshifters-getting-started).
+### Why should I use clusters?
+{: #comparison-clusters}
+
+{{../containers/_include-segments/service-benefits.md}}
 
 
 ### How do I choose between {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}?
@@ -80,3 +69,6 @@ Learn a little bit about each product to know which one suits your needs best.
 If you know you want to manage your containers in a cluster, consider these differences as you choose between these two products.
 
 {{../containers/overview.md#iks-os-table}}
+
+
+Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?topic=containers-getting-started) or [{{site.data.keyword.openshiftlong_notm}}](/docs/openshift?topic=containopenshifters-getting-started).
