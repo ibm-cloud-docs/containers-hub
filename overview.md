@@ -16,7 +16,7 @@ subcollection: containers-hub
 # Understanding Containers in {{site.data.keyword.cloud_notm}}
 {: #overview}
 
-Containers provide a standard way to package your application's code, configurations, and dependencies into a single unit that can run as a resource-isolated process on a compute server.
+Learn what containers are and how you can use them in your app development processes on {{site.data.keyword.cloud_notm}}.
 {: shortdesc}
 
 {{../containers/overview.md#what-are-containers-overview}}
