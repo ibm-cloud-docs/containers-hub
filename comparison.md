@@ -52,7 +52,7 @@ subcollection: containers-hub
 
 
 ### How do I choose between {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}?
-{: #comparison-iks-os}
+{: #comparison-choose-iks-os}
 
 If you know you want to manage your containers in a cluster, consider these differences as you choose between these two products.
 
