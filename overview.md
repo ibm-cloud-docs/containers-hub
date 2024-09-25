@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2024
-lastupdated: "2024-09-24"
+lastupdated: "2024-09-25"
 
 
 keywords: containers
@@ -36,7 +36,20 @@ I want to run batch jobs.
 I want to enforce tight security requirements and have network control over a system of containers.
 :   I've got more complex workloads that I want to automate, isolate, secure, manage, and monitor. 
 
-## What options are available to me?
-{: #overview_options}
+## What products are available to me?
+{: #comparison-tools}
 
-[{{site.data.keyword.cloud_notm}} offers several products](/docs/containers-hub?topic=containers-hub-comparison) for deploying containers. Get familiar with them to see which one works best for you.
+|Product|Tenancy|Cost|Management|Skills
+|-----|-----|-----|-----|-----|
+|{{site.data.keyword.codeenginefull}}|Multi-tenant (Shared)|Pay when the workloads run|Manage your app in a container|No infrastructure skills required|
+|{{site.data.keyword.containerfull}}|Single-tenant (Dedicated)|Billing by cluster|Manage a cluster of containers|Infrastructure and networking skills required|
+|{{site.data.keyword.openshiftlong}}|Single-tenant (Dedicated)|Billing by cluster|Manage a cluster of containers|Infrastructure and networking skills required|
+{: summary="The rows are read from left to right. The resource area of comparing responsibilities is in the first column, with the responsibilities of IBM in the second column and your responsibilities in the third column."}
+{: caption="Table 1. Containers product comparison" caption-side="bottom"}
+
+### Storing images
+{: #comparison-reg}
+
+With all of these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
+
+{{../Registry/registry_overview.md#table_registry_overview_benefits}}
