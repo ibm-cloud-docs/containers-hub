@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2024
-lastupdated: "2024-09-25"
+lastupdated: "2024-09-26"
 
 
 keywords: containers
@@ -59,4 +59,4 @@ If you know you want to manage your containers in a cluster, consider these diff
 {{../containers/overview.md#iks-os-table}}
 
 
-Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?topic=containers-getting-started) or [{{site.data.keyword.openshiftlong_notm}}](/docs/openshift?topic=containopenshifters-getting-started).
+Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?topic=containers-getting-started) or [{{site.data.keyword.openshiftlong_notm}}](/docs/openshift?topic=openshift-getting-started).
