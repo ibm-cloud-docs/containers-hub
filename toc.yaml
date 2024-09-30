@@ -24,13 +24,13 @@ toc:
       links:
       - link:
           label: IBM Cloud Code Engine docs
-          href: /docs/codeengine?topic=codeengine-getting-started
+          href: https://cloud.ibm.com/docs/codeengine
       - link:
           label: IBM Cloud Kubernetes Service docs
-          href: /docs/containers?topic=containers-getting-started
+          href: https://cloud.ibm.com/docs/containers
       - link:
           label: Red Hat OpenShift on IBM Cloud docs
-          href: /docs/openshift?topic=openshift-getting-started
+          href: https://cloud.ibm.com/docs/openshift
       - link:
           label: IBM Cloud Container Registry docs
-          href: /docs/Registry?topic=Registry-getting-started
+          href: https://cloud.ibm.com/docs/Registry
