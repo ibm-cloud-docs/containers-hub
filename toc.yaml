@@ -8,7 +8,7 @@ toc:
     deployable: false
     href: /docs/containers-hub
     path: containers-hub
-    description: 128 characters or less. The description should expand upon the name, but don't add extra marketese words that inflate the length. Focus on keywords that users would be skimming and/or searching for, including any key IBM branded terms covered in the solution.
+    description: Choose a product and get started deployed containers.
     label: Containers
   entries:
   - navgroup:
@@ -23,14 +23,14 @@ toc:
       id: reference
       links:
       - link:
-          label: IBM Cloud Code Engine
+          label: IBM Cloud Code Engine docs
           href: /docs/codeengine
       - link:
-          label: IBM Cloud Kubernetes Service
+          label: IBM Cloud Kubernetes Service docs
           href: /docs/containers
       - link:
-          label: Red Hat OpenShift for IBM Cloud
+          label: Red Hat OpenShift on IBM Cloud docs
           href: /docs/openshift
       - link:
-          label: IBM Cloud Container Registry
+          label: IBM Cloud Container Registry docs
           href: /docs/Registry
