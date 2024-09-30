@@ -19,3 +19,18 @@ toc:
       id: plan
       topics:
       - comparison.md
+  - navgroup:
+      id: reference
+      links:
+      - link:
+          label: IBM Cloud Code Engine
+          href: /docs/codeengine
+      - link:
+          label: IBM Cloud Kubernetes Service
+          href: /docs/containers
+      - link:
+          label: Red Hat OpenShift for IBM Cloud
+          href: /docs/openshift
+      - link:
+          label: IBM Cloud Container Registry
+          href: /docs/Registry
