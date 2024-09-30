@@ -34,6 +34,12 @@
         "description": "OpenShift developers have a fast and secure way to containerize and deploy enterprise workloads in Kubernetes clusters. ",
         "href": "/docs/openshift",
         "type": "training"
+      },
+      {
+        "title": "IBM Cloud Container Registry",
+        "description": "Store and share your container images with users in your IBM Cloud account.",
+        "href": "/docs/Registry",
+        "type": "training"
       }
     ]
 
