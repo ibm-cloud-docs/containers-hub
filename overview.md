@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2024
-lastupdated: "2024-09-25"
+lastupdated: "2024-10-03"
 
 
 keywords: containers
@@ -37,7 +37,9 @@ I want to enforce tight security requirements and have network control over a sy
 :   I've got more complex workloads that I want to automate, isolate, secure, manage, and monitor. 
 
 ## What products are available to me?
-{: #comparison-tools}
+{: #product-list}
+
+With all of these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
 
 |Product|Tenancy|Cost|Management|Skills
 |-----|-----|-----|-----|-----|
@@ -47,9 +49,4 @@ I want to enforce tight security requirements and have network control over a sy
 {: summary="The rows are read from left to right. The resource area of comparing responsibilities is in the first column, with the responsibilities of IBM in the second column and your responsibilities in the third column."}
 {: caption="Table 1. Containers product comparison" caption-side="bottom"}
 
-### Storing images
-{: #comparison-reg}
-
-With all of these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
-
-{{../Registry/registry_overview.md#table_registry_overview_benefits}}
+[Learn more about the differences between these products.](/docs/containers-hub?topic=containers-hub-comparison)

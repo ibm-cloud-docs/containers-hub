@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2024
-lastupdated: "2024-09-26"
+lastupdated: "2024-10-03"
 
 
 keywords: containers
@@ -31,18 +31,19 @@ subcollection: containers-hub
 [Get started with {{site.data.keyword.codeenginefull_notm}}](/docs/codeengine?topic=codeengine-getting-started).
 
 
-## Scalable with maximum capabilities: {{site.data.keyword.containerlong_notm}} or {{site.data.keyword.openshiftlong_notm}}
+
+## Scalable clusters with maximum capabilities: {{site.data.keyword.containerlong_notm}} or {{site.data.keyword.openshiftlong_notm}}
 {: #comparison-iks-os}
 
 {{../containers/overview.md#overview-iks}}
 
 {{../openshift/overview.md#what-is-openshift-overview-par}}
 
+
 ### What is a cluster?
 {: #comparison-clusters-what}
 
 {{../containers/overview.md#overview-clusters}}
-
 
 
 ### Why should I use clusters?
@@ -54,9 +55,18 @@ subcollection: containers-hub
 ### How do I choose between {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}?
 {: #comparison-choose-iks-os}
 
-If you know you want to manage your containers in a cluster, consider these differences as you choose between these two products.
+If you know you want to manage your containers in a cluster, consider these differences as you choose between the two products.
 
 {{../containers/overview.md#iks-os-table}}
 
 
 Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?topic=containers-getting-started) or [{{site.data.keyword.openshiftlong_notm}}](/docs/openshift?topic=openshift-getting-started).
+
+
+
+### Storing images: {{site.data.keyword.registrylong_notm}}
+{: #comparison-reg}
+
+With all of these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
+
+{{../Registry/registry_overview.md#table_registry_overview_benefits}}
