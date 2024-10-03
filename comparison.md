@@ -30,7 +30,7 @@ subcollection: containers-hub
 
 {{../codeengine/about.md#benefits-table}}
 
-[Get started with {{site.data.keyword.codeenginefull_notm}}](/docs/codeengine?topic=codeengine-getting-started).
+[{{site.data.keyword.codeengineshort}}]{: tag-cyan} [Get started!](/docs/codeengine?topic=codeengine-getting-started).
 
 
 
@@ -66,7 +66,8 @@ If you know you want to manage your containers in a cluster, consider these diff
 {{../containers/overview.md#iks-os-table}}
 
 
-Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?topic=containers-getting-started) or [{{site.data.keyword.openshiftlong_notm}}](/docs/openshift?topic=openshift-getting-started).
+[{{site.data.keyword.containershort}}]{: tag-blue} [Get started!](/docs/containers?topic=containers-getting-started)
+[{{site.data.keyword.openshiftshort}}]{: tag-red} [Get started!](/docs/openshift?topic=openshift-getting-started)
 
 
 ## Storing images: {{site.data.keyword.registrylong_notm}}
@@ -75,3 +76,5 @@ Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?top
 [{{site.data.keyword.registryshort}}]{: tag-teal} 
 
 {{../Registry/registry_overview.md#table_registry_overview_benefits}}
+
+[{{site.data.keyword.registryshort}}]{: tag-teal} [Get started!](/docs/Registry?topic=Registry-getting-started)
