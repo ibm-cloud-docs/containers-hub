@@ -28,6 +28,8 @@ subcollection: containers-hub
 
 {{../codeengine/about.md#benefits-table}}
 
+![Get started with {{site.data.keyword.codeenginefull_notm}}.](images/logo_ce.svg "Get started with {{site.data.keyword.codeenginefull_notm}}."){: caption="Get started with {{site.data.keyword.codeenginefull_notm}}." caption-side="bottom"}
+
 [Get started with {{site.data.keyword.codeenginefull_notm}}](/docs/codeengine?topic=codeengine-getting-started).
 
 
@@ -62,7 +64,9 @@ If you know you want to manage your containers in a cluster, consider these diff
 
 Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?topic=containers-getting-started) or [{{site.data.keyword.openshiftlong_notm}}](/docs/openshift?topic=openshift-getting-started).
 
+![Get started with {{site.data.keyword.containerlong_notm}}.](images/logo_iks.svg "Get started with {{site.data.keyword.containerlong_notm}}."){: caption="Get started with {{site.data.keyword.containerlong_notm}}." caption-side="bottom"}
 
+![Get started with {{site.data.keyword.openshiftlong_notm}}.](images/logo_os.svg "Get started with {{site.data.keyword.openshiftlong_notm}}."){: caption="Get started with {{site.data.keyword.openshiftlong_notm}}." caption-side="bottom"}
 
 ### Storing images: {{site.data.keyword.registrylong_notm}}
 {: #comparison-reg}
@@ -70,3 +74,5 @@ Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?top
 With all of these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
 
 {{../Registry/registry_overview.md#table_registry_overview_benefits}}
+
+![Get started with {{site.data.keyword.registrylong_notm}}.](images/logo_reg.svg "Get started with {{site.data.keyword.registrylong_notm}}."){: caption="Get started with {{site.data.keyword.registrylong_notm}}." caption-side="bottom"}
