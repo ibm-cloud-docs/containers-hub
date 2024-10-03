@@ -24,7 +24,9 @@ subcollection: containers-hub
 ## Quick and simple: {{site.data.keyword.codeenginefull_notm}}
 {: #comparison-ce}
 
-[{{site.data.keyword.codeengineshort}}]{: tag-cyan} {{../codeengine/about.md#about-par}}
+[{{site.data.keyword.codeengineshort}}]{: tag-cyan} 
+
+{{../codeengine/about.md#about-par}}
 
 {{../codeengine/about.md#benefits-table}}
 
@@ -35,9 +37,13 @@ subcollection: containers-hub
 ## Scalable clusters with maximum capabilities: {{site.data.keyword.containerlong_notm}} or {{site.data.keyword.openshiftlong_notm}}
 {: #comparison-iks-os}
 
-[{{site.data.keyword.openshiftshort}}]{: tag-blue} {{../containers/overview.md#overview-iks}}
+[{{site.data.keyword.containershort}}]{: tag-blue} 
 
-[{{site.data.keyword.containershort}}]{: tag-red} {{../openshift/overview.md#what-is-openshift-overview-par}}
+{{../containers/overview.md#overview-iks}}
+
+[{{site.data.keyword.openshiftshort}}]{: tag-red} 
+
+{{../openshift/overview.md#what-is-openshift-overview-par}}
 
 
 ### What is a cluster?
