@@ -71,8 +71,6 @@ Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?top
 ## Storing images: {{site.data.keyword.registrylong_notm}}
 {: #comparison-reg}
 
-With all of these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
+[![Get started with {{site.data.keyword.registrylong_notm}}.](images/logo_reg.svg "Get started with {{site.data.keyword.registrylong_notm}}."){: caption="Get started with {{site.data.keyword.registrylong_notm}}." caption-side="bottom"}](/docs/Registry?topic=Registry-getting-started) With all of these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
 
 {{../Registry/registry_overview.md#table_registry_overview_benefits}}
-
-[![Get started with {{site.data.keyword.registrylong_notm}}.](images/logo_reg.svg "Get started with {{site.data.keyword.registrylong_notm}}."){: caption="Get started with {{site.data.keyword.registrylong_notm}}." caption-side="bottom"}](/docs/Registry?topic=Registry-getting-started)
