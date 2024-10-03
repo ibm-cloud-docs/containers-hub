@@ -68,7 +68,7 @@ Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?top
 
 ![Get started with {{site.data.keyword.openshiftlong_notm}}.](images/logo_os.svg "Get started with {{site.data.keyword.openshiftlong_notm}}."){: caption="Get started with {{site.data.keyword.openshiftlong_notm}}." caption-side="bottom"}
 
-### Storing images: {{site.data.keyword.registrylong_notm}}
+## Storing images: {{site.data.keyword.registrylong_notm}}
 {: #comparison-reg}
 
 With all of these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
