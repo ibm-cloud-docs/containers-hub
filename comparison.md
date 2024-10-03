@@ -64,9 +64,9 @@ If you know you want to manage your containers in a cluster, consider these diff
 
 Get started with [{{site.data.keyword.containerlong_notm}}](/docs/containers?topic=containers-getting-started) or [{{site.data.keyword.openshiftlong_notm}}](/docs/openshift?topic=openshift-getting-started).
 
-![Get started with {{site.data.keyword.containerlong_notm}}.](images/logo_iks.svg "Get started with {{site.data.keyword.containerlong_notm}}."){: caption="Get started with {{site.data.keyword.containerlong_notm}}." caption-side="bottom"}
+[![Get started with {{site.data.keyword.containerlong_notm}}.](images/logo_iks.svg "Get started with {{site.data.keyword.containerlong_notm}}."){: caption="Get started with {{site.data.keyword.containerlong_notm}}." caption-side="bottom"}](/docs/containers?topic=containers-getting-started)
 
-![Get started with {{site.data.keyword.openshiftlong_notm}}.](images/logo_os.svg "Get started with {{site.data.keyword.openshiftlong_notm}}."){: caption="Get started with {{site.data.keyword.openshiftlong_notm}}." caption-side="bottom"}
+[![Get started with {{site.data.keyword.openshiftlong_notm}}.](images/logo_os.svg "Get started with {{site.data.keyword.openshiftlong_notm}}."){: caption="Get started with {{site.data.keyword.openshiftlong_notm}}." caption-side="bottom"}](/docs/openshift?topic=openshift-getting-started)
 
 ## Storing images: {{site.data.keyword.registrylong_notm}}
 {: #comparison-reg}
@@ -75,4 +75,4 @@ With all of these container product options, you can also choose to store images
 
 {{../Registry/registry_overview.md#table_registry_overview_benefits}}
 
-![Get started with {{site.data.keyword.registrylong_notm}}.](images/logo_reg.svg "Get started with {{site.data.keyword.registrylong_notm}}."){: caption="Get started with {{site.data.keyword.registrylong_notm}}." caption-side="bottom"}
+[![Get started with {{site.data.keyword.registrylong_notm}}.](images/logo_reg.svg "Get started with {{site.data.keyword.registrylong_notm}}."){: caption="Get started with {{site.data.keyword.registrylong_notm}}." caption-side="bottom"}](/docs/Registry?topic=Registry-getting-started)
