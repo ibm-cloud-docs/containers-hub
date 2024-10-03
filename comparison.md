@@ -38,15 +38,16 @@ subcollection: containers-hub
 ## Scalable clusters with maximum capabilities: {{site.data.keyword.containerlong_notm}} or {{site.data.keyword.openshiftlong_notm}}
 {: #comparison-iks-os}
 
-[Get started with the {{site.data.keyword.containershort}}!](/docs/containers?topic=containers-getting-started)
-
-[Get started with {{site.data.keyword.openshiftshort}}!](/docs/openshift?topic=openshift-getting-started)
 
 [{{site.data.keyword.containershort}}]{: tag-blue} 
+
+[Get started with the {{site.data.keyword.containershort}}!](/docs/containers?topic=containers-getting-started)
 
 {{../containers/overview.md#overview-iks}}
 
 [{{site.data.keyword.openshiftshort}}]{: tag-red} 
+
+[Get started with {{site.data.keyword.openshiftshort}}!](/docs/openshift?topic=openshift-getting-started)
 
 {{../openshift/overview.md#what-is-openshift-overview-par}}
 
