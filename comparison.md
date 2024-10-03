@@ -30,7 +30,7 @@ subcollection: containers-hub
 
 {{../codeengine/about.md#benefits-table}}
 
-[{{site.data.keyword.codeengineshort}}]{: tag-cyan} [Get started!](/docs/codeengine?topic=codeengine-getting-started).
+[[Get started with {{site.data.keyword.codeengineshort}}](/docs/codeengine?topic=codeengine-getting-started)]{: tag-cyan}
 
 
 
