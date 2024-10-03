@@ -26,7 +26,7 @@ subcollection: containers-hub
 
 [{{site.data.keyword.codeengineshort}}]{: tag-cyan} 
 
-[Get started with {{site.data.keyword.codeengineshort}}](/docs/codeengine?topic=codeengine-getting-started)
+[Get started with {{site.data.keyword.codeengineshort}}!](/docs/codeengine?topic=codeengine-getting-started)
 
 {{../codeengine/about.md#about-par}}
 
