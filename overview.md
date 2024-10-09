@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2024
-lastupdated: "2024-10-03"
+lastupdated: "2024-10-09"
 
 
 keywords: containers
@@ -47,6 +47,6 @@ With all of these container product options, you can also choose to store images
 |{{site.data.keyword.containerfull}}|Single-tenant (Dedicated)|Billing by cluster|Manage a cluster of containers|Infrastructure and networking skills required|
 |{{site.data.keyword.openshiftlong}}|Single-tenant (Dedicated)|Billing by cluster|Manage a cluster of containers|Infrastructure and networking skills required|
 {: summary="The rows are read from left to right. The resource area of comparing responsibilities is in the first column, with the responsibilities of IBM in the second column and your responsibilities in the third column."}
-{: caption="Table 1. Containers product comparison" caption-side="bottom"}
+{: caption="Containers product comparison" caption-side="bottom"}
 
 [Learn more about the differences between these products.](/docs/containers-hub?topic=containers-hub-comparison)
