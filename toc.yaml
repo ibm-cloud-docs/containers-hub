@@ -1,0 +1,39 @@
+toc:
+  properties:
+    subcollection: containers-hub
+    use-case: ContainerOrchestration,ContainerImages,ContainerRegistry, Containersecurity, Containerization,Containers,FunctionAsAService
+    audience: solution
+    category: solution_docs
+    content-type: solution
+    deployable: false
+    href: /docs/containers-hub
+    path: containers-hub
+    description: Choose a product and get started deployed containers.
+    label: Containers
+  entries:
+  - navgroup:
+      id: overview
+      topics:
+      - overview.md
+  - navgroup:
+      id: plan
+      topics:
+      - comparison.md
+  - navgroup:
+      id: reference
+      topics:
+      - topicgroup:
+          label: Related product guides
+          topics:
+          - link:
+              label: IBM Cloud Code Engine docs
+              href: https://cloud.ibm.com/docs/codeengine
+          - link:
+              label: IBM Cloud Kubernetes Service docs
+              href: https://cloud.ibm.com/docs/containers
+          - link:
+              label: Red Hat OpenShift on IBM Cloud docs
+              href: https://cloud.ibm.com/docs/openshift
+          - link:
+              label: IBM Cloud Container Registry docs
+              href: https://cloud.ibm.com/docs/Registry

@@ -1,0 +1,5 @@
+includes:
+  - https://github.ibm.com/cloud-docs/codeengine
+  - https://github.ibm.com/cloud-docs/containers
+  - https://github.ibm.com/cloud-docs/openshift
+  - https://github.ibm.com/cloud-docs/Registry

@@ -1,0 +1,46 @@
+{
+    "version": 2,
+    "title": "Containers",
+    "introduction": "A container platform built to support the most secure, reliable and scalable environments.",
+    "product_page": "https://www.ibm.com/cloud/containers",
+    "console_page": "/catalog?category=containers",
+    "section_topics": {
+      "links": [
+        {
+            "title": "Understanding Containers in IBM Cloud",
+            "href": "/docs/containers-hub?topic=containers-hub-overview"
+          },  
+          {
+            "title": "Comparing IBM Cloud Containers products",
+            "href": "/docs/containers-hub?topic=containers-hub-comparison"
+          }
+      ]
+    },
+    "section_highlights": [
+      {
+        "title": "IBM Cloud Code Engine",
+        "description": "Use the fully managed, serverless platform to run your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs.",
+        "href": "/docs/codeengine",
+        "type": "training"
+      },
+      {
+        "title": "IBM Cloud Kubernetes Service",
+        "description": "IBM Cloud Kubernetes Service creates a cluster of compute hosts and deploys highly available containers. A Kubernetes cluster lets you securely manage the resources that you need to quickly deploy, update and scale applications.",
+        "href": "/docs/containers",
+        "type": "training"
+      },
+      {
+        "title": "Red Hat OpenShift for IBM Cloud",
+        "description": "OpenShift developers have a fast and secure way to containerize and deploy enterprise workloads in Kubernetes clusters. ",
+        "href": "/docs/openshift",
+        "type": "training"
+      },
+      {
+        "title": "IBM Cloud Container Registry",
+        "description": "Store and share your container images with users in your IBM Cloud account.",
+        "href": "/docs/Registry",
+        "type": "training"
+      }
+    ]
+
+  }
