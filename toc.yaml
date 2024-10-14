@@ -21,16 +21,19 @@ toc:
       - comparison.md
   - navgroup:
       id: reference
-      links:
-      - link:
-          label: IBM Cloud Code Engine docs
-          href: https://cloud.ibm.com/docs/codeengine
-      - link:
-          label: IBM Cloud Kubernetes Service docs
-          href: https://cloud.ibm.com/docs/containers
-      - link:
-          label: Red Hat OpenShift on IBM Cloud docs
-          href: https://cloud.ibm.com/docs/openshift
-      - link:
-          label: IBM Cloud Container Registry docs
-          href: https://cloud.ibm.com/docs/Registry
+      topics:
+      - topicgroup:
+          label: Related product guides
+          topics:
+          - link:
+              label: IBM Cloud Code Engine docs
+              href: https://cloud.ibm.com/docs/codeengine
+          - link:
+              label: IBM Cloud Kubernetes Service docs
+              href: https://cloud.ibm.com/docs/containers
+          - link:
+              label: Red Hat OpenShift on IBM Cloud docs
+              href: https://cloud.ibm.com/docs/openshift
+          - link:
+              label: IBM Cloud Container Registry docs
+              href: https://cloud.ibm.com/docs/Registry
