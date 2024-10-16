@@ -1,9 +1,9 @@
 {
     "version": 2,
     "title": "Containers",
-    "introduction": "A container platform built to support the most secure, reliable and scalable environments.",
+    "introduction": "A container platform built to support the most secure, reliable, and scalable environments.",
     "product_page": "https://www.ibm.com/cloud/containers",
-    "console_page": "/catalog?category=containers",
+    "console_page": "/containers/overview",
     "section_topics": {
       "links": [
         {
