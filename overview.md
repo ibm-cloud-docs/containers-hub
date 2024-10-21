@@ -2,7 +2,7 @@
 
 copyright:
   years: 2024, 2024
-lastupdated: "2024-10-09"
+lastupdated: "2024-10-21"
 
 
 keywords: containers
@@ -39,7 +39,7 @@ I want to enforce tight security requirements and have network control over a sy
 ## What products are available to me?
 {: #product-list}
 
-With all of these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
+With these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
 
 |Product|Tenancy|Cost|Management|Skills
 |-----|-----|-----|-----|-----|
