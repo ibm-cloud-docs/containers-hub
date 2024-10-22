@@ -13,32 +13,36 @@
           {
             "title": "Comparing IBM Cloud Containers products",
             "href": "/docs/containers-hub?topic=containers-hub-comparison"
+          },  
+          {
+            "title": "IBM Cloud Code Engine docs",
+            "href": "/docs/codeengine"
+          },  
+          {
+            "title": "IBM Cloud Kubernetes Service docs",
+            "href": "/docs/containers"
+          },  
+          {
+            "title": "Red Hat OpenShift for IBM Cloud docs",
+            "href": "/docs/openshift"
+          },  
+          {
+            "title": "IBM Cloud Container Registry docs",
+            "href": "/docs/Registry"
           }
       ]
     },
     "section_highlights": [
       {
-        "title": "IBM Cloud Code Engine",
-        "description": "Use the fully managed, serverless platform to run your containerized workloads, including web apps, micro-services, event-driven functions, or batch jobs.",
-        "href": "/docs/codeengine",
+        "title": "Containers on IBM Cloud",
+        "description": "Facilitate and accelerate your journey to the cloud in a fast and safe way.",
+        "href": "https://www.ibm.com/cloud/containers",
         "type": "training"
       },
       {
-        "title": "IBM Cloud Kubernetes Service",
-        "description": "IBM Cloud Kubernetes Service creates a cluster of compute hosts and deploys highly available containers. A Kubernetes cluster lets you securely manage the resources that you need to quickly deploy, update and scale applications.",
-        "href": "/docs/containers",
-        "type": "training"
-      },
-      {
-        "title": "Red Hat OpenShift for IBM Cloud",
-        "description": "OpenShift developers have a fast and secure way to containerize and deploy enterprise workloads in Kubernetes clusters. ",
-        "href": "/docs/openshift",
-        "type": "training"
-      },
-      {
-        "title": "IBM Cloud Container Registry",
-        "description": "Store and share your container images with users in your IBM Cloud account.",
-        "href": "/docs/Registry",
+        "title": "Community",
+        "description": "Find blogs, events, and resources for IBM Cloud.",
+        "href": "https://community.ibm.com/community/user/cloud/home",
         "type": "training"
       }
     ]
