@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2024, 2024
-lastupdated: "2024-10-30"
+  years: 2024, 2025
+lastupdated: "2025-01-15"
 
 
 keywords: containers
@@ -25,7 +25,7 @@ Learn what containers are and how you can use them in your app development proce
 ## Why might I use containers?
 {: #overview-why}
 
-Most people want to do one of the following tasks by using containers.
+Most people use containers to do one of the following tasks.
 
 I want to run an HTTP app.
 :   I've got some code that I want to deploy for my users to access.
