@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2024, 2024
-lastupdated: "2024-10-03"
+  years: 2024, 2025
 
+lastupdated: "2025-11-19"
 
 keywords: containers
+
 subcollection: containers-hub
 
 ---
@@ -33,11 +34,8 @@ subcollection: containers-hub
 {{../codeengine/about.md#benefits-table}}
 
 
-
-
 ## Scalable clusters with maximum capabilities: {{site.data.keyword.containerlong_notm}} or {{site.data.keyword.openshiftlong_notm}}
 {: #comparison-iks-os}
-
 
 [{{site.data.keyword.containershort}}]{: tag-blue} 
 
@@ -52,6 +50,7 @@ subcollection: containers-hub
 {{../openshift/overview.md#what-is-openshift-overview-par}}
 
 
+
 ### What is a cluster?
 {: #comparison-clusters-what}
 
@@ -62,6 +61,7 @@ subcollection: containers-hub
 {: #comparison-clusters-why}
 
 {{../containers/_include-segments/service-benefits.md}}
+
 
 
 ### How do I choose between {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}?
