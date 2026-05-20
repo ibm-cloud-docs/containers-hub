@@ -1,9 +1,9 @@
 ---
 
 copyright:
-  years: 2024, 2025
+  years: 2024, 2026
 
-lastupdated: "2025-11-19"
+lastupdated: "2026-05-20"
 
 keywords: containers
 
@@ -35,7 +35,7 @@ I want to run batch jobs.
 :   I've got repeatable tasks I want to run on a regular basis for testing or other purposes.
 
 I want to enforce tight security requirements and have network control over a system of containers.
-:   I've got more complex workloads that I want to automate, isolate, secure, manage, and monitor. 
+:   I've got more complex workloads that I want to automate, isolate, secure, manage, and monitor.
 
 
 ## What products are available to me?
@@ -43,12 +43,11 @@ I want to enforce tight security requirements and have network control over a sy
 
 With these container product options, you can also choose to store images in {{site.data.keyword.registrylong}}.
 
-|Product|Tenancy|Cost|Management|Skills
-|-----|-----|-----|-----|-----|
-|{{site.data.keyword.codeenginefull}}|Multi-tenant (Shared)|Pay when the workloads run|Manage your app in a container|No infrastructure skills required|
-|{{site.data.keyword.containerfull}}|Single-tenant (Dedicated)|Billing by cluster|Manage a cluster of containers|Infrastructure and networking skills required|
-|{{site.data.keyword.openshiftlong}}|Single-tenant (Dedicated)|Billing by cluster|Manage a cluster of containers|Infrastructure and networking skills required|
-{: summary="The rows are read from left to right. The resource area of comparing responsibilities is in the first column, with the responsibilities of IBM in the second column and your responsibilities in the third column."}
+| Product | Tenancy | Cost | Management | Skills |
+| ------- | ------- | ---- | ---------- | ------ |
+| {{site.data.keyword.codeenginefull}} | Multi-tenant (Shared) | Pay when the workloads run | Manage your app in a container | No infrastructure skills required |
+| {{site.data.keyword.containerfull}} | Single-tenant (Dedicated) | Billing by cluster | Manage a cluster of containers | Infrastructure and networking skills required |
+| {{site.data.keyword.openshiftlong}} | Single-tenant (Dedicated) | Billing by cluster | Manage a cluster of containers | Infrastructure and networking skills required |
 {: caption="Containers product comparison" caption-side="bottom"}
 
 [Learn more about the differences between these products.](/docs/containers-hub?topic=containers-hub-comparison)
