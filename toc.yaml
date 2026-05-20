@@ -8,7 +8,7 @@ toc:
     deployable: false
     href: /docs/containers-hub
     path: containers-hub
-    description: Choose a product and get started deployed containers.
+    description: Choose a product and get started deploying containers.
     label: Containers
   entries:
   - navgroup:

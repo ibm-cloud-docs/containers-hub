@@ -1,50 +1,49 @@
 {
-    "version": 2,
-    "title": "Containers",
-    "introduction": "A container platform built to support the most secure, reliable, and scalable environments.",
-    "product_page": "https://www.ibm.com/products/cloud/containers",
-    "console_page": "/containers/overview",
-    "section_topics": {
-      "links": [
-        {
-            "title": "Understanding Containers in IBM Cloud",
-            "href": "/docs/containers-hub?topic=containers-hub-overview"
-          },  
-          {
-            "title": "Comparing IBM Cloud Containers products",
-            "href": "/docs/containers-hub?topic=containers-hub-comparison"
-          },  
-          {
-            "title": "IBM Cloud Code Engine docs",
-            "href": "/docs/codeengine"
-          },  
-          {
-            "title": "IBM Cloud Kubernetes Service docs",
-            "href": "/docs/containers"
-          },  
-          {
-            "title": "Red Hat OpenShift for IBM Cloud docs",
-            "href": "/docs/openshift"
-          },  
-          {
-            "title": "IBM Cloud Container Registry docs",
-            "href": "/docs/Registry"
-          }
-      ]
-    },
-    "section_highlights": [
+  "version": 2,
+  "title": "Containers",
+  "introduction": "A container platform built to support the most secure, reliable, and scalable environments.",
+  "product_page": "https://www.ibm.com/products/cloud/containers",
+  "console_page": "/containers/overview",
+  "section_topics": {
+    "links": [
       {
-        "title": "Containers on IBM Cloud",
-        "description": "Facilitate and accelerate your journey to the cloud in a fast and safe way.",
-        "href": "https://www.ibm.com/products/cloud/containers",
-        "type": "training"
+        "title": "Understanding Containers in IBM Cloud",
+        "href": "/docs/containers-hub?topic=containers-hub-overview"
       },
       {
-        "title": "Community",
-        "description": "Find blogs, events, and resources for IBM Cloud.",
-        "href": "https://community.ibm.com/community/user/my-community",
-        "type": "training"
+        "title": "Comparing IBM Cloud Containers products",
+        "href": "/docs/containers-hub?topic=containers-hub-comparison"
+      },
+      {
+        "title": "IBM Cloud Code Engine docs",
+        "href": "/docs/codeengine"
+      },
+      {
+        "title": "IBM Cloud Kubernetes Service docs",
+        "href": "/docs/containers"
+      },
+      {
+        "title": "Red Hat OpenShift on IBM Cloud docs",
+        "href": "/docs/openshift"
+      },
+      {
+        "title": "IBM Cloud Container Registry docs",
+        "href": "/docs/Registry"
       }
     ]
-
-  }
+  },
+  "section_highlights": [
+    {
+      "title": "Containers on IBM Cloud",
+      "description": "Facilitate and accelerate your journey to the cloud in a fast and safe way.",
+      "href": "https://www.ibm.com/products/cloud/containers",
+      "type": "training"
+    },
+    {
+      "title": "Community",
+      "description": "Find blogs, events, and resources for IBM Cloud.",
+      "href": "https://community.ibm.com/community/user/my-community",
+      "type": "training"
+    }
+  ]
+}
