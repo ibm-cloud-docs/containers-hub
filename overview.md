@@ -3,7 +3,7 @@
 copyright:
   years: 2024, 2026
 
-lastupdated: "2026-05-20"
+lastupdated: "2026-07-27"
 
 keywords: containers
 
@@ -28,14 +28,14 @@ Learn what containers are and how you can use them in your app development proce
 
 Most people use containers to do one of the following tasks.
 
-I want to run an HTTP app.
-:   I've got some code that I want to deploy for my users to access.
+You want to run an HTTP app.
+:   You have code that you want to deploy for your users to access.
 
-I want to run batch jobs.
-:   I've got repeatable tasks I want to run on a regular basis for testing or other purposes.
+You want to run batch jobs.
+:   You have repeatable tasks that you want to run on a regular basis for testing or other purposes.
 
-I want to enforce tight security requirements and have network control over a system of containers.
-:   I've got more complex workloads that I want to automate, isolate, secure, manage, and monitor.
+You want to enforce tight security requirements and have network control over a system of containers.
+:   You have more complex workloads that you want to automate, isolate, secure, manage, and monitor.
 
 
 ## What products are available to me?
