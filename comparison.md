@@ -1,9 +1,9 @@
 ---
 
 copyright:
-  years: 2024, 2025
+  years: 2024, 2026
 
-lastupdated: "2025-11-19"
+lastupdated: "2026-08-03"
 
 keywords: containers
 
@@ -14,10 +14,10 @@ subcollection: containers-hub
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Comparing {{site.data.keyword.cloud_notm}} Containers products
+# Comparing {{site.data.keyword.cloud_notm}} container deployment options
 {: #comparison}
 
-{{site.data.keyword.cloud_notm}} offers several products for deploying containers.
+Explore {{site.data.keyword.cloud_notm}} container deployment products, including Code Engine, Kubernetes, and OpenShift, to choose the best fit for your needs.
 {: shortdesc}
 
 
