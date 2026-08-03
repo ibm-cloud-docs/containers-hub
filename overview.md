@@ -3,7 +3,7 @@
 copyright:
   years: 2024, 2026
 
-lastupdated: "2026-07-27"
+lastupdated: "2026-08-03"
 
 keywords: containers
 
@@ -14,13 +14,16 @@ subcollection: containers-hub
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Understanding Containers in {{site.data.keyword.cloud_notm}}
+# Using containers for app development on {{site.data.keyword.cloud_notm}}
 {: #overview}
 
-Learn what containers are and how you can use them in your app development processes on {{site.data.keyword.cloud_notm}}.
+Learn how to use containers in your app development processes on {{site.data.keyword.cloud_notm}}, including product options and use cases.
 {: shortdesc}
 
 {{../containers/overview.md#what-are-containers-overview}}
+
+
+
 
 
 ## Why might I use containers?
@@ -28,7 +31,7 @@ Learn what containers are and how you can use them in your app development proce
 
 Most people use containers to do one of the following tasks.
 
-You want to run an HTTP app.
+You want to run an HTTP (Hypertext Transfer Protocol) app.
 :   You have code that you want to deploy for your users to access.
 
 You want to run batch jobs.
