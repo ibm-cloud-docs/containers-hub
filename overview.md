@@ -3,9 +3,9 @@
 copyright:
   years: 2024, 2026
 
-lastupdated: "2026-08-03"
+lastupdated: "2026-08-05"
 
-keywords: containers
+keywords: containers, IBM Cloud, app development, containerization
 
 subcollection: containers-hub
 
@@ -17,7 +17,7 @@ subcollection: containers-hub
 # Using containers for app development on {{site.data.keyword.cloud_notm}}
 {: #overview}
 
-Learn how to use containers in your app development processes on {{site.data.keyword.cloud_notm}}, including product options and use cases.
+Learn how to use containers in your app development processes on {{site.data.keyword.cloud_notm}}, including product options and use cases including containerization.
 {: shortdesc}
 
 {{../containers/overview.md#what-are-containers-overview}}

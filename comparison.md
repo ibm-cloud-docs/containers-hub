@@ -3,9 +3,9 @@
 copyright:
   years: 2024, 2026
 
-lastupdated: "2026-08-03"
+lastupdated: "2026-08-05"
 
-keywords: containers
+keywords: containers, cloud, products, AI
 
 subcollection: containers-hub
 
