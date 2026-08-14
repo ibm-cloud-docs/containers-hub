@@ -3,7 +3,7 @@
 copyright:
   years: 2024, 2026
 
-lastupdated: "2026-08-05"
+lastupdated: "2026-08-11"
 
 keywords: containers, IBM Cloud, app development, containerization
 
@@ -17,7 +17,7 @@ subcollection: containers-hub
 # Using containers for app development on {{site.data.keyword.cloud_notm}}
 {: #overview}
 
-Learn how to use containers in your app development processes on {{site.data.keyword.cloud_notm}}, including product options and use cases including containerization.
+Learn how to use containers in your app development processes on IBM (International Business Machines) {{site.data.keyword.cloud_notm}}, including product options and use cases including containerization.
 {: shortdesc}
 
 {{../containers/overview.md#what-are-containers-overview}}
@@ -26,19 +26,19 @@ Learn how to use containers in your app development processes on {{site.data.key
 
 
 
-## Why might I use containers?
+## Why use containers?
 {: #overview-why}
 
-Most people use containers to do one of the following tasks.
+Containers are a proven solution for modern app development. Use containers to accomplish the following tasks.
 
 You want to run an HTTP (Hypertext Transfer Protocol) app.
-:   You have code that you want to deploy for your users to access.
+:   Deploy your code in a container to give your users reliable, consistent access to your application.
 
 You want to run batch jobs.
-:   You have repeatable tasks that you want to run on a regular basis for testing or other purposes.
+:   Run repeatable, automated tasks on a regular schedule for testing, data processing, or other purposes.
 
 You want to enforce tight security requirements and have network control over a system of containers.
-:   You have more complex workloads that you want to automate, isolate, secure, manage, and monitor.
+:   Automate, isolate, secure, manage, and monitor complex workloads with fine-grained network control.
 
 
 ## What products are available to me?
