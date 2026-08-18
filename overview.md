@@ -3,7 +3,7 @@
 copyright:
   years: 2024, 2026
 
-lastupdated: "2026-08-11"
+lastupdated: "2026-08-18"
 
 keywords: containers, IBM Cloud, app development, containerization
 
@@ -14,10 +14,10 @@ subcollection: containers-hub
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Using containers for app development on {{site.data.keyword.cloud_notm}}
+# Developing apps with containers on {{site.data.keyword.cloud_notm}}
 {: #overview}
 
-Learn how to use containers in your app development processes on IBM (International Business Machines) {{site.data.keyword.cloud_notm}}, including product options and use cases including containerization.
+Learn to use containers for app development on International Business Machines (IBM) {{site.data.keyword.cloud_notm}}, including product options and use cases.
 {: shortdesc}
 
 {{../containers/overview.md#what-are-containers-overview}}
@@ -29,16 +29,16 @@ Learn how to use containers in your app development processes on IBM (Internatio
 ## Why use containers?
 {: #overview-why}
 
-Containers are a proven solution for modern app development. Use containers to accomplish the following tasks.
+Containers represent the industry standard for modern, scalable application development. Use containers to achieve the following key objectives.
 
-You want to run an HTTP (Hypertext Transfer Protocol) app.
-:   Deploy your code in a container to give your users reliable, consistent access to your application.
+You want to run a Hypertext Transfer Protocol (HTTP) app.
+:   Containerized deployment guarantees high availability, isolated runtime environments, and reliable, consistent access to your applications.
 
 You want to run batch jobs.
-:   Run repeatable, automated tasks on a regular schedule for testing, data processing, or other purposes.
+:   Containers ensure isolated, repeatable, and scheduled execution of automated testing and high-throughput data processing tasks.
 
 You want to enforce tight security requirements and have network control over a system of containers.
-:   Automate, isolate, secure, manage, and monitor complex workloads with fine-grained network control.
+:   Containerized environments provide robust security isolation, fine-grained network control, and comprehensive workload monitoring to satisfy strict enterprise policies.
 
 
 ## What products are available to me?

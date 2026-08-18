@@ -3,7 +3,7 @@
 copyright:
   years: 2024, 2026
 
-lastupdated: "2026-08-05"
+lastupdated: "2026-08-18"
 
 keywords: containers, cloud, products, AI
 
@@ -14,10 +14,10 @@ subcollection: containers-hub
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Comparing {{site.data.keyword.cloud_notm}} container deployment options
+# Choosing the right {{site.data.keyword.cloud_notm}} container deployment option
 {: #comparison}
 
-Explore {{site.data.keyword.cloud_notm}} container deployment products, including Code Engine, Kubernetes, and OpenShift, to choose the best fit for your needs.
+Compare {{site.data.keyword.cloud_notm}} container deployment options, including Code Engine, Kubernetes, and OpenShift, to select the best fit for your needs.
 {: shortdesc}
 
 
