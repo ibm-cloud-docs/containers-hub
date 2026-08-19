@@ -3,7 +3,7 @@
 copyright:
   years: 2024, 2026
 
-lastupdated: "2026-08-18"
+lastupdated: "2026-08-19"
 
 keywords: containers, cloud, products, AI
 
@@ -67,7 +67,7 @@ Compare {{site.data.keyword.cloud_notm}} container deployment options, including
 ### How do I choose between {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}?
 {: #comparison-choose-iks-os}
 
-If you know you want to manage your containers in a cluster, consider these differences as you choose between the two products.
+If you know you want to manage your containers in a cluster, consider these differences as you choose between the two products. Both platforms support integration with Artificial Intelligence (AI) and machine learning services on {{site.data.keyword.cloud_notm}}.
 
 {{../containers/overview.md#iks-os-table}}
 
