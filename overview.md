@@ -3,9 +3,9 @@
 copyright:
   years: 2024, 2026
 
-lastupdated: "2026-08-19"
+lastupdated: "2026-08-25"
 
-keywords: containers, IBM Cloud, app development, containerization
+keywords: containers, IBM Cloud, International Business Machines (IBM), app development, containerization
 
 subcollection: containers-hub
 
@@ -23,16 +23,13 @@ Learn to use containers for app development on {{site.data.keyword.cloud_notm}},
 {{../containers/overview.md#what-are-containers-overview}}
 
 
-
-
-
 ## Why use containers?
 {: #overview-why}
 
 Containers represent the industry standard for modern, scalable application development. Use containers to achieve the following key objectives.
 
-You want to run an HTTP app.
-:   Containerized deployment guarantees high availability, isolated runtime environments, and reliable, consistent access to your applications over Hypertext Transfer Protocol (HTTP).
+You want to run a Hypertext Transfer Protocol (HTTP) app.
+:   Containerized deployment guarantees high availability, isolated runtime environments, and reliable, consistent access to your applications over HTTP.
 
 You want to run batch jobs.
 :   Containers ensure isolated, repeatable, and scheduled execution of automated testing and high-throughput data processing tasks.
