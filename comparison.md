@@ -2,12 +2,11 @@
 
 copyright:
   years: 2024, 2026
-
-lastupdated: "2026-08-19"
+lastupdated: "2026-10-02"
 
 keywords: containers, cloud, products, AI
-
 subcollection: containers-hub
+
 
 ---
 
@@ -20,8 +19,6 @@ subcollection: containers-hub
 Compare {{site.data.keyword.cloud_notm}} container deployment options, including Code Engine, Kubernetes, and OpenShift, to select the best fit for your needs.
 {: shortdesc}
 
-
-
 ## Quick and simple: {{site.data.keyword.codeenginefull_notm}}
 {: #comparison-ce}
 
@@ -32,7 +29,6 @@ Compare {{site.data.keyword.cloud_notm}} container deployment options, including
 {{../codeengine/about.md#about-par}}
 
 {{../codeengine/about.md#benefits-table}}
-
 
 ## Scalable clusters with maximum capabilities: {{site.data.keyword.containerlong_notm}} or {{site.data.keyword.openshiftlong_notm}}
 {: #comparison-iks-os}
@@ -49,8 +45,6 @@ Compare {{site.data.keyword.cloud_notm}} container deployment options, including
 
 {{../openshift/overview.md#what-is-openshift-overview-par}}
 
-
-
 ### What is a cluster?
 {: #comparison-clusters-what}
 
@@ -62,18 +56,12 @@ Compare {{site.data.keyword.cloud_notm}} container deployment options, including
 
 {{../containers/_include-segments/service-benefits.md}}
 
-
-
 ### How do I choose between {{site.data.keyword.containerlong_notm}} and {{site.data.keyword.openshiftlong_notm}}?
 {: #comparison-choose-iks-os}
 
 If you know you want to manage your containers in a cluster, consider these differences as you choose between the two products. Both platforms support integration with Artificial Intelligence (AI) and machine learning services on {{site.data.keyword.cloud_notm}}.
 
 {{../containers/overview.md#iks-os-table}}
-
-
-
-
 
 ## Storing images: {{site.data.keyword.registrylong_notm}}
 {: #comparison-reg}
