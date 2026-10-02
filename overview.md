@@ -2,11 +2,9 @@
 
 copyright:
   years: 2024, 2026
-
-lastupdated: "2026-08-25"
+lastupdated: "2026-10-02"
 
 keywords: containers, IBM Cloud, International Business Machines (IBM), app development, containerization
-
 subcollection: containers-hub
 
 ---
@@ -36,7 +34,6 @@ You want to run batch jobs.
 
 You want to enforce tight security requirements and have network control over a system of containers.
 :   Containerized environments provide robust security isolation, fine-grained network control, and comprehensive workload monitoring to satisfy strict enterprise policies.
-
 
 ## What products are available to me?
 {: #product-list}
